@@ -25,21 +25,34 @@
 
 ---
 
-## 📊 Skills Radar
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['HTML','CSS','JS','Python','Django','React','Node','MongoDB','PostgreSQL'],
-      datasets:[{
-        label:'Skill Level',
-        data:[90,85,80,75,70,80,78,72,68]
-      }]
-    }
-  }" />
-</p>
+## 📊 Skills Overview
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-78%25-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/ExpressJS-75%25-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-70%25-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-72%25-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-68%25-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-85%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-90%25-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-85%25-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-80%25-00C7B7?style=for-the-badge&logo=netlify)
 
 ## 🚀 Featured Projects
 
