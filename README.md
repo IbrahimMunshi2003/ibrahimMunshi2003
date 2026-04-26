@@ -20,9 +20,3 @@ Optimized performance and ensured accessibility across all devices.
 [View Project](https://supremesurgicals.co.in/)
 
 ---
-
-### BOUTIQUE DE CLASSE
-
-Developed a fully responsive e-commerce website with product listings, category filters, and an interactive shopping cart. Focused on creating a smooth, user-friendly interface using HTML, CSS, and JavaScript, optimized for both desktop and mobile devices.
-
-[View Project](https://ibrahimmunshi2003.github.io/Boutique_De_Classe/)
